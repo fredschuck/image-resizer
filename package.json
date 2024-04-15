@@ -1,0 +1,17 @@
+{
+  "name": "image-resizer",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "Application resizes image dimensions",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Fred Schuck",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^29.3.0",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
