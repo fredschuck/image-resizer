@@ -1,4 +1,7 @@
-# Image Resizer
+<div align="center">
+  <img src="renderer/images/logo.svg" width="50"/>
+  <h1>PhotoFit</h1>
+</div>
 
 Electron application that allows you to select an image and easily change the width and/or height.
 
