@@ -13,7 +13,7 @@ let mainWindow;
 //Create main window
 function createMainWindow() {
   mainWindow = new BrowserWindow({
-    title: "ImageShrink",
+    title: "PhotoFit",
     width: isDev ? 1000 : 500,
     height: 600,
     webPreferences: {
@@ -34,7 +34,7 @@ function createMainWindow() {
 // Create about window
 function createAboutWindow() {
   const aboutWindow = new BrowserWindow({
-    title: "ImageResizer",
+    title: "PhotoFit - About",
     width: 300,
     height: 300,
   });
